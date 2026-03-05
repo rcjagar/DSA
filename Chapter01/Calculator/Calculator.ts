@@ -1,4 +1,4 @@
-function Calculator(num1,num2, operator){
+function Calculator(num1 : number, num2: number, operator: string): number  {
     let result;
     switch(operator){
         case '+':
