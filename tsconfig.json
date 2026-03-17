@@ -13,6 +13,6 @@
     "sourceMap": true,
     "noEmitOnError": true
   },
-  "include": ["**/*.ts"],
+  "include": ["**/*.ts", "Chapter01/GetSum/GetSum-run.js", "Chapter01/ReversingString/ReversingString-run.js"],
   "exclude": ["node_modules", "dist"]
 }
